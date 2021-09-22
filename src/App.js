@@ -21,9 +21,6 @@ function App() {
         </Switch>
 
       </Router>
-      {/* <Menu />
-      <About />
-      <Contact /> */}
       <Footer />
     </div>
   );

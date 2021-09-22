@@ -11,10 +11,7 @@ function Contact() {
         className="leftSide"
         style={{ backgroundImage: `url(${Contactus})` }}
       ></div>
-      {/* <div
-        className="aboutTop"
-        style={{ backgroundImage: `url(${About_us}` }}
-      ></div> */}
+
       <div className="rightSide">
         <h1> Contact Us</h1>
 

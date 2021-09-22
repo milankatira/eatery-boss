@@ -10,7 +10,8 @@ function About() {
       <div
         className="aboutTop"
         style={{ backgroundImage: `url(${About_us}` }}
-      ></div>
+      >
+      </div>
       <div className="aboutBottom">
         <h1> ABOUT US</h1>
         <p>
